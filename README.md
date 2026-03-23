@@ -1,0 +1,4 @@
+基于stm32+esp32（at）+onenet+uniapp的工业监测控制项目
+uniapp是基于ts和react框架的
+stm32基于hal库
+esp32作为网络模块用at指令控制
