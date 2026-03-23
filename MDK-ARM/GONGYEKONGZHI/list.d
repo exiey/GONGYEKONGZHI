@@ -1,0 +1,12 @@
+gongyekongzhi\list.o: ..\FreeRTOS\source\list.c
+gongyekongzhi\list.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gongyekongzhi\list.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\list.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\list.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\list.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\list.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\list.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\list.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\list.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\list.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\list.o: ../FreeRTOS/include/list.h

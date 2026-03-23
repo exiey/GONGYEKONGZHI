@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "common_debug.h": "c",
+        "task.h": "c",
+        "list.h": "c",
+        "app_datacollect.h": "c",
+        "oledfont.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "adc.h": "c",
+        "spi_oled.h": "c",
+        "main.h": "c",
+        "app_datacjson.h": "c",
+        "app_datatransform.h": "c",
+        "spi_oled_hal.h": "c",
+        "spi.h": "c",
+        "freertos.h": "c"
+    },
+    "idf.portWin": "COM7",
+    "idf.openOcdConfigs": [
+        "board/esp32c3-builtin.cfg"
+    ]
+}

@@ -1,0 +1,15 @@
+gongyekongzhi\queue.o: ..\FreeRTOS\source\queue.c
+gongyekongzhi\queue.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gongyekongzhi\queue.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\queue.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\queue.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\queue.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\queue.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/task.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/list.h
+gongyekongzhi\queue.o: ../FreeRTOS/include/queue.h

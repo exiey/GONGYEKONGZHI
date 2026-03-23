@@ -1,0 +1,14 @@
+gongyekongzhi\stream_buffer.o: ..\FreeRTOS\source\stream_buffer.c
+gongyekongzhi\stream_buffer.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\stream_buffer.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\stream_buffer.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/task.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/list.h
+gongyekongzhi\stream_buffer.o: ../FreeRTOS/include/stream_buffer.h

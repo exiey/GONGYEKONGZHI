@@ -1,0 +1,13 @@
+gongyekongzhi\croutine.o: ..\FreeRTOS\source\croutine.c
+gongyekongzhi\croutine.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\croutine.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\croutine.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\croutine.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\croutine.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/task.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/list.h
+gongyekongzhi\croutine.o: ../FreeRTOS/include/croutine.h

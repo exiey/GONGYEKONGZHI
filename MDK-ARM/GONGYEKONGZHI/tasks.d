@@ -1,0 +1,16 @@
+gongyekongzhi\tasks.o: ..\FreeRTOS\source\tasks.c
+gongyekongzhi\tasks.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gongyekongzhi\tasks.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\tasks.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\tasks.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\tasks.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/task.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/list.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/timers.h
+gongyekongzhi\tasks.o: ../FreeRTOS/include/stack_macros.h

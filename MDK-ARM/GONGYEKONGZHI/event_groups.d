@@ -1,0 +1,15 @@
+gongyekongzhi\event_groups.o: ..\FreeRTOS\source\event_groups.c
+gongyekongzhi\event_groups.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\event_groups.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\event_groups.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/task.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/list.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/timers.h
+gongyekongzhi\event_groups.o: ../FreeRTOS/include/event_groups.h

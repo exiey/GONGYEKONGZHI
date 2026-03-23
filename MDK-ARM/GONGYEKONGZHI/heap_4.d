@@ -1,0 +1,14 @@
+gongyekongzhi\heap_4.o: ..\FreeRTOS\portable\MemMang\heap_4.c
+gongyekongzhi\heap_4.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdlib.h
+gongyekongzhi\heap_4.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\string.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/FreeRTOS.h
+gongyekongzhi\heap_4.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stddef.h
+gongyekongzhi\heap_4.o: D:\code_environment\stm32_environment\Keil_v5\ARM\arm5_compiler\Bin\..\include\stdint.h
+gongyekongzhi\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/projdefs.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/portable.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/deprecated_definitions.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/portable/RVDS/ARM_CM3/portmacro.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/mpu_wrappers.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/task.h
+gongyekongzhi\heap_4.o: ../FreeRTOS/include/list.h
