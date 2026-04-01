@@ -3,7 +3,7 @@
  * 功能：作为 WiFi AP，提供 HTTP Server 接收指令和返回传感器数据
  * 
  * 使用方法：
- * 1. 手机连接 ESP32 WiFi（SSID: ESP32-IoT-001，密码：12345678）
+ * 1. 手机连接 ESP32 WiFi（SSID/密码请改为你自己的配置）
  * 2. 访问 http://192.168.4.1/data 获取传感器数据
  * 3. POST http://192.168.4.1/command 发送控制指令
  */
@@ -16,8 +16,8 @@
 #include <MPU6050.h>
 
 // ==================== 配置参数 ====================
-const char* ssid = "ESP32-IoT-001";
-const char* password = "12345678";
+const char* ssid = "这里填写你的AP名称";
+const char* password = "这里填写你的AP密码";
 
 // 引脚定义（根据实际连接修改）
 #define DHT_PIN 4           // DHT11/DHT22 数据引脚
@@ -32,9 +32,9 @@ DHT dht(DHT_PIN, DHT_TYPE);
 MPU6050 mpu;
 
 // 设备信息
-String deviceId = "factory_monitor_001";
-String factoryArea = "高危化工区A栋2层";
-String firmwareVersion = "V1.2.3";
+String deviceId = "这里填写你的设备ID";
+String factoryArea = "这里填写你的区域名称";
+String firmwareVersion = "这里填写你的固件版本";
 
 // 阈值配置
 struct ThresholdConfig {

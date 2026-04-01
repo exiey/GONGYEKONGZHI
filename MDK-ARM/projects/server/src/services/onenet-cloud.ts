@@ -32,9 +32,9 @@ export type CloudSensorSnapshot = {
   raw_payload: OneNetPropertyResponse;
 };
 
-const DEFAULT_PRODUCT_ID = "fjIr89gNlc";
-const DEFAULT_DEVICE_ID = "esp32c3-001";
-const DEFAULT_ACCESS_KEY = "aWv7//1FoQFHCaV/MQk9D5m7VdmH/09rte8ROflNLdU=";
+const DEFAULT_PRODUCT_ID = "这里填写你的OneNET产品ID";
+const DEFAULT_DEVICE_ID = "这里填写你的OneNET设备ID";
+const DEFAULT_ACCESS_KEY = "这里填写你的OneNET AccessKey";
 const DEFAULT_API_BASE = "https://iot-api.heclouds.com";
 const TOKEN_VERSION = "2018-10-31";
 
