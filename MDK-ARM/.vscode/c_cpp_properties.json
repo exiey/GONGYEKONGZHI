@@ -19,7 +19,7 @@
                 "d:\\code\\design\\GONGYEKONGZHI\\FreeRTOS\\source",
                 "d:\\code\\design\\GONGYEKONGZHI\\inf\\dht11",
                 "d:\\code\\design\\GONGYEKONGZHI\\inf\\mq",
-                "D:\\code_environment\\stm32_environment\\Keil_v5\\ARM\\ARMCC\\include",
+                "D:\\code_environment\\stm32_environment\\Keil_v5\\ARM\\ARMCLANG\\include",
                 "d:\\code\\design\\GONGYEKONGZHI\\MDK-ARM",
                 "d:\\code\\design\\GONGYEKONGZHI\\Core\\Src",
                 "d:\\code\\design\\GONGYEKONGZHI\\Drivers\\STM32F1xx_HAL_Driver\\Src"
